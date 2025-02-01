@@ -1,0 +1,5 @@
+pandas>=1.5.0
+numpy>=1.21.0
+numpy-financial>=1.0.0
+pyxirr>=0.9.0
+tqdm>=4.65.0
